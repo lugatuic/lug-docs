@@ -1,8 +1,13 @@
 **Linux User's Group at University of Illinois Chicago**
+
 **Request for Comment:** 0000
+
 **Category:** Experimental
 
+-------------------------------------------------------------------------------------------------------------------------
+
 Anthony Phelps
+
 UIC
 
 <center>Basic Rules for the Governance of the Linux User's Group at the University of Illinois at Chicago</center>
@@ -17,86 +22,126 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 **Table of Contents:**
 
-1. Introduction
-    1.1. Purpose
-2. Name and Objective
-    2.1. Organization Name
-    2.2. Objective
-3. Membership
-    3.1. Eligibility
-    3.2. Tiers
-    3.3. Dues
-4. Officers
-5. Executive Committee
-6. Meetings
-7. Advisor
-8. Amendments and Revisions
+1. [Introduction](#Introduction)
+
+    1.1. [Purpose](#Purpose)
     
-## Introduction
+2. [Name and Objective](#NAO)
 
-### Purpose
+    2.1. [Organization Name](#Organization-Name)
+    
+    2.2. [Objective](#Objective)
+    
+3. [Membership](#Membership)
 
-## Name and Objective
+    3.1. [Eligibility](#Eligibility)
+    
+    3.2. [Tiers](#Tiers)
+    
+    3.3. [Dues](#Dues)
+    
+4. [Executive Committee](#Executive-Committee)
 
-### Organization Name
+    4.1. [Traditional Officers](#Traditional-Officers)
+    
+    4.2. [Non-Traditional Officers](#Non-Traditional-Officers)
+    
+    4.3. [The Vox](#The-Vox)
+    
+5. [Meetings](#Meetings)
+
+6. [Advisor](#Advisor)
+
+7. [User Groups](#User-Groups)
+
+8. [Amendments and Revisions](#Amendments-Revisions)
+
+    
+## <a name="Introduction"></a>Introduction
+
+### <a name="Purpose"></a>Purpose
+
+## <a name="NAO"></a> Name and Objective
+
+### <a name="Organization-Name"></a> Organization Name
 
 This organization shall be know as the Linux User's Group or "LUG" for short. Throughout this document the organization will be referred to by its acronym, LUG.
 
-### Objective
+### <a name="Objective"></a> Objective
 
 The objective of this organization is to promote the understanding of and participation in the open source software community.
 
-## Membership
+## <a name="Membership"></a> Membership
 
-### Eligibility
+### <a name="Elligibility"></a> Eligibility
 
 Membership is open to any student, faculty, staff, or alumni of the University of Illinois at Chicago (UIC) and shall be free of discrimination based on gender, race, religion, physical disability, or sexual orientation.
 
-### Standing
+### <a name="Standing"></a> Standing
 
-A member in the organization can it good or poor standing. A member in good standing has all the rights and privileges granted to that member by this document. A member in poor standing has the following restrictions:
+A member in the organization can it good or poor standing. By default members are in good standing upon joining the organization. A member in good standing has all the rights and privileges granted to that member by this document. To remain in good standning a member must:
 
-- one
-- two
-- three
-- four
+- Contirbute to meetings and activities
+- Uphold and complete all duties and responsibilities assigned them as members
 
-#### Acquiring Poor Standing
+Penalties for members in poor standing shall be drafted and maintained by the [Executive Committee](#Executive-Committee).
 
-Reasons for assigning a member poor standing status:
-
-- Failure to pay any annual dues deemed required of members
-- two
-- three
-
-### Tiers
+### <a name="Tiers"></a> Tiers
 
 There are two membership tiers: university and alumni.
 
 #### University
 
-University tier membership is open to any current student, faculty, or staff of UIC. Duties, rights, and privileges of university tier members is as follows:
-
-- b
-- b
-- b
-- b
+University tier membership is open to any current student, faculty, or staff of UIC.
 
 #### Alumni
 
-Alumni tier membership is open to any former student, faculty, or staff of UIC. Duties, rights, and privileges of alumni tier memebrs is as follows:
+Alumni tier membership is open to any former student, faculty, or staff of UIC. 
 
-- b
-- b
-- b
-- b
+### Expulsion
 
-## Officers
+A member may be expelled from the LUG for any or all of the following reasons:
 
-## Executive Committee
+- Stealing or abuse of finds
+- Physical or verbal abuse of members
+- Any gross misconduct as so deemed by the Executive Committee
 
-## Meetings
+In order for a member to be expelled a majority vote must be obtained from all university tier members. This vote will be held over the course of seven days to give members ample time to consider their decision and vote. At the end of the voting period votes will be tallied and the necessary action will be taken.
 
-## Advisor
+## <a name="Executive-Committee"></a> Executive Committee
 
-## Amendments and Revisions
+The Executive Committee shall be the primary governing body of the LUG. It will conduct, on behalf of the LUG, all buisness it deems necessary and consist of three sets: Traditional Officers, Non-Traditional Officers, and The Vox.
+
+### <a name="Voting-and-Quorum"></a> Voting and Quorum
+
+All voting matters shall be decided by a majority vote of a quorum of at least 2/3 of the university tier members, one of whom must not be a traditional officer (so long as such a member exists), with the exception of any process which this document describes should be decided by some other process.
+
+### Offices and Officers
+
+Officer positions in the LUG may be created and destroyed at the will of the executive committee by a standard vote as described in the [Voting and Quorum](#Voting-and-Quorum) section with exception to the three UIC required postiions as described in the section [Traditional Officers](#Traditional-Officers). 
+
+All officers shall have a term of one calender year starting on the day elected.
+
+No officer, traditional or otherwise, has any more decision making power than any other member. The purpose of officers in the LUG is to keep things organized, documented, and to help ensure that the LUG stays on track of its goals as decided by the executive committee. They do not hold power akin to leaders in other organizations unless granted that power by the executive committee. Because of this power structure there is no term limit on any office in the organization.
+
+### <a name="Traditional-Officers"></a> Traditional Officers
+
+There shall be three offices which must be filled each calendar year by university tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer.
+
+#### President
+
+#### Vice-President
+
+#### Treasurer
+
+### <a name="Non-Traditional-Officers"></a> Non-Traditional Officers
+
+### <a name="The-Vox"></a> The Vox
+
+## <a name="Meetings"></a> Meetings
+
+## <a name="Advisor"></a> Advisor
+
+## <a name="User-Groups"></a> Groups
+
+## <a name="Amendments-and-Revisions"></a> Amendments and Revisions
