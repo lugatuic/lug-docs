@@ -98,6 +98,10 @@ University tier membership is open to any current student, faculty, or staff of 
 
 Alumni tier membership is open to any former student, faculty, or staff of UIC. 
 
+### Dues
+
+The Executive Committee shall have the right to levy fair annual dues for membership. All university tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the descresion of the Executive Committee. Alumni members shall be exempt from any dues.
+
 ### Expulsion
 
 A member may be expelled from the LUG for any or all of the following reasons:
@@ -126,17 +130,35 @@ No officer, traditional or otherwise, has any more decision making power than an
 
 ### <a name="Traditional-Officers"></a> Traditional Officers
 
-There shall be three offices which must be filled each calendar year by university tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer.
+There shall be three offices which must be filled each calendar year by university tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer. Each position may be filled by one person and one person only. This person must not have any other traditional officer position.
 
 #### President
 
+The president's duties are as follows:
+
+- Ensure that the organization upholds the principals laid down in this document and in any further governing document created by the executive committee.
+- To be an easy point of contact for people inside and outside the organization on matters related to the organization.
+- Monitor and track prgress of goals set for the LUg by the Executive Committee.
+
 #### Vice-President
 
-#### Treasurer
+The Vice-President shares the same duties as the President and it should be decided shortly after election how best to divide those duties between the two officers.
+
+#### Treasurer  
+
+The Treasurer's duties are as follows:
+
+- Ensure the creation of a budget by the Executive Committee, shortly after elections, for the next year.
+- Monitor the budget of the organization and assure it is spent appropriately.
+- Keep track of all money coming into and leaving the organization
 
 ### <a name="Non-Traditional-Officers"></a> Non-Traditional Officers
 
+Any university tier member or User Group may be appointed by the Executive Committee as a non-traditonal officer in order to oversee or administer some important process for the LUG. 
+
 ### <a name="The-Vox"></a> The Vox
+
+The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to t
 
 ## <a name="Meetings"></a> Meetings
 
