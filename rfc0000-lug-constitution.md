@@ -1,21 +1,21 @@
-Linux User's Group at University of Illinois Chicago
-Request for Comments: 0000
-Category: Experimental
+**Linux User's Group at University of Illinois Chicago**
+**Request for Comment:** 0000
+**Category:** Experimental
 
 Anthony Phelps
 UIC
 
 <center>Basic Rules for the Governance of the Linux User's Group at the University of Illinois at Chicago</center>
 
-Abstract:
+**Abstract:**
 
 This documents exist to layout rules for governing the Linux User's Group (LUG) at the University of Illinois at Chicago (UIC).
 
-Copyright and License Notice:
+**Copyright and License Notice:**
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
 
-Table of Contents:
+**Table of Contents:**
 
 1. Introduction
     1.1. Purpose
@@ -65,7 +65,7 @@ A member in the organization can it good or poor standing. A member in good stan
 
 Reasons for assigning a member poor standing status:
 
-- Failure to pay any annual dues deemed required by members
+- Failure to pay any annual dues deemed required of members
 - two
 - three
 
@@ -77,7 +77,7 @@ There are two membership tiers: university and alumni.
 
 University tier membership is open to any current student, faculty, or staff of UIC. Duties, rights, and privileges of university tier members is as follows:
 
-- 
+- b
 - b
 - b
 - b
