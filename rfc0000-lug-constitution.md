@@ -158,7 +158,7 @@ Any university tier member or User Group may be appointed by the Executive Commi
 
 ### <a name="The-Vox"></a> The Vox
 
-The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to t
+The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to participate to the fullest amount they can in the goings on of the LUG.
 
 ## <a name="Meetings"></a> Meetings
 
