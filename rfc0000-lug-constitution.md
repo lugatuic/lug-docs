@@ -1,6 +1,8 @@
 **Linux User's Group at University of Illinois Chicago**
 
-**Request for Comment:** 0000
+**Request for Comment:** #0000
+
+&nbsp;&nbsp;&nbsp;&nbsp;Modifies and References RFCs: #0000
 
 **Category:** Experimental
 
@@ -160,6 +162,20 @@ Any university tier member or User Group may be appointed by the Executive Commi
 
 The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to participate to the fullest amount they can in the goings on of the LUG.
 
+## <a name="Laws"></a> Executive Committee Decisions
+
+Any proposal brought to, or decision made by the Executive Committee should be drafted in the form a a document called a Request For Comments, or RFC for short, as a nod to the IETF RFC standards approval process.
+
+RFCs should be relitivly short well thought out descriptions of some policy, rule, or regulation proposed to the Executive Committee. This system exist to ensure there is a well documented history of Executive Committee decisions for reference on future actions.
+
+All approved RFCs must be kept somewhere publically accessible to all members of the LUG.
+
+Any RFC which modifies, even temporarily, a policy that exists in another RFC must contain a reference to that RFC so that one can easily cross reference RFCs. The modified RFC must then be annotated with a reference to this change and the new RFC. Any RFC found by the Executive Committee to violate this rule is immediately invalidated until the RFC is corrected and revoted on.
+
+The Executive Committee shall hold a standard vote to decide on all proposed RFCs.
+
+This document may be used as a stylistic guide for the fromat of RFCs. All RFCs should be given a unique identifying number incrementing from zero.
+
 ## <a name="User-Groups"></a> User Groups
 
 User groups are sub-units of the LUG devoted to some buisness of interest to one or more members of the LUG. User groups can be created for any purpose whether it be a general discussion group, a group in charge of admistering some buisness of the LUG, or anything else the members desire. Groups exist to have a framework for members of the LUG to self-organize and participate in and enrich the LUG community.
@@ -176,11 +192,13 @@ Unofficial groups may be granted funds by the Executive Committee upon request b
 
 ### Official Groups
 
-Official User Groups are official sub-groups of the LUG. Any university tier member in good standing may submit a proposal to the Executive Committee to create an Official User Group. This proposal should come in the form of a document describing what the group is, what it will do, and how it will be run. If this group was formerly an Unofficial User Group this document should already be existent.
+Official User Groups are official sub-groups of the LUG. Any university tier member in good standing may submit a proposal to the Executive Committee to create an Official User Group. This proposal should come in the form of an official RFC and describe what the group is, what it will do, and how it will be run. If this group was formerly an Unofficial User Group this document should already be existent.
 
 Official User Groups are to be allotted an annual budget by the Executive Committee.
 
 Official User Groups are expected to keep careful record of their finances, membership, and activities. Representatives of each group will prepare a report of the status of the group, which should include the information kept in the required group records described above, each year to the executive committee.
+
+The LUG shall have one required User Group. This User Group, called root, shall be administered by the LUG's Traditional Officiers. This group is the core group of LUG and all new LUG members are automatically members of this group. Further official documentation of the root group may be found in LUG RFC#0001.
 
 ## <a name="Meetings"></a> Meetings
 
@@ -194,3 +212,5 @@ There are two meetings that the LUG most hold each year. These meetings must hap
 The LUG shall enlist the assistance of an adviser on all projects. The LUG adviser shall be a full-time faculty member at UIC.
 
 ## <a name="Amendments-and-Revisions"></a> Amendments and Revisions
+
+This document may be altered by a vote of the Executive Committee. To pass any alteration a 2/3 majority vote must be taken of 3/4 of the total university tier members of the LUG who are in good standing.
