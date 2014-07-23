@@ -138,7 +138,7 @@ The president's duties are as follows:
 
 - Ensure that the organization upholds the principals laid down in this document and in any further governing document created by the executive committee.
 - To be an easy point of contact for people inside and outside the organization on matters related to the organization.
-- Monitor and track prgress of goals set for the LUg by the Executive Committee.
+- Monitor and track prgress of goals set for the LUG by the Executive Committee.
 
 #### Vice-President
 
@@ -160,10 +160,37 @@ Any university tier member or User Group may be appointed by the Executive Commi
 
 The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to participate to the fullest amount they can in the goings on of the LUG.
 
+## <a name="User-Groups"></a> User Groups
+
+User groups are sub-units of the LUG devoted to some buisness of interest to one or more members of the LUG. User groups can be created for any purpose whether it be a general discussion group, a group in charge of admistering some buisness of the LUG, or anything else the members desire. Groups exist to have a framework for members of the LUG to self-organize and participate in and enrich the LUG community.
+
+No member in good standing may be excluded from a group that that individual wishes to join.
+
+There are two tiers of LUG user group: unofficial and official.
+
+### Unofficial Groups
+
+Unofficial User Groups may be formed by any member(s) in good standing of the LUG at any time. Those wishing to create the group should gather together and write a document defining what the group is, what it will do, and how it will be run. This document should be iteratively improved over time with the eventual goal of it becoming the official proposal for this unofficial group to become an official group.
+
+Unofficial groups may be granted funds by the Executive Committee upon request but are not guarunteed an annual budget.
+
+### Official Groups
+
+Official User Groups are official sub-groups of the LUG. Any university tier member in good standing may submit a proposal to the Executive Committee to create an Official User Group. This proposal should come in the form of a document describing what the group is, what it will do, and how it will be run. If this group was formerly an Unofficial User Group this document should already be existent.
+
+Official User Groups are to be allotted an annual budget by the Executive Committee.
+
+Official User Groups are expected to keep careful record of their finances, membership, and activities. Representatives of each group will prepare a report of the status of the group, which should include the information kept in the required group records described above, each year to the executive committee.
+
 ## <a name="Meetings"></a> Meetings
+
+There are two meetings that the LUG most hold each year. These meetings must happen in the spring semester and should occur within one year of the previous meeting. The root user group shall be responsible for scheduling and running these meetings.
+
+- Election Meeting
+- Budget Meeting
 
 ## <a name="Advisor"></a> Advisor
 
-## <a name="User-Groups"></a> Groups
+The LUG shall enlist the assistance of an adviser on all projects. The LUG adviser shall be a full-time faculty member at UIC.
 
 ## <a name="Amendments-and-Revisions"></a> Amendments and Revisions
