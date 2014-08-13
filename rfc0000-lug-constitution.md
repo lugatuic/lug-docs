@@ -2,7 +2,7 @@
 
 **Request for Comment:** #0000
 
-&nbsp;&nbsp;&nbsp;&nbsp;Modifies and References RFCs: #0000
+&nbsp;&nbsp;&nbsp;&nbsp;Relevant RFCs: #0000
 
 **Category:** Experimental
 
@@ -61,7 +61,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
     
 ## <a name="Introduction"></a>Introduction
 
-### <a name="Purpose"></a>Purpose
+
 
 ## <a name="NAO"></a> Name and Objective
 
@@ -197,8 +197,6 @@ Official User Groups are official sub-groups of the LUG. Any university tier mem
 Official User Groups are to be allotted an annual budget by the Executive Committee.
 
 Official User Groups are expected to keep careful record of their finances, membership, and activities. Representatives of each group will prepare a report of the status of the group, which should include the information kept in the required group records described above, each year to the executive committee.
-
-The LUG shall have one required User Group. This User Group, called root, shall be administered by the LUG's Traditional Officiers. This group is the core group of LUG and all new LUG members are automatically members of this group. Further official documentation of the root group may be found in LUG RFC#0001.
 
 ## <a name="Meetings"></a> Meetings
 
