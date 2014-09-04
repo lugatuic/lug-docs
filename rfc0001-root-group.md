@@ -16,7 +16,7 @@ UIC
 
 **Abstract:**
 
-This document lays out the structure of the root User Group of the Linux User's Group at the University of Illinois at Chicago. The root user group exists to define a standard base group for members to join.
+This document lays out the structure of the root User Group of the Linux User's Group at the University of Illinois at Chicago. The root user group exists to define a standard base group for LUG members to join.
 
 **Copyright and License Notice:**
 
