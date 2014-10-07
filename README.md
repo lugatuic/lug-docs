@@ -4,3 +4,7 @@ lug-docs
 Documents that layout and define the Linux User's Group at the University of Illinois at Chciago
 
 Things are still pretty rough so forgive spelling, grammer, and logic errors.
+
+## Want to make changes?
+
+See the [wiki](https://github.com/neofu50/lug-docs/wiki)
