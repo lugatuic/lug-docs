@@ -12,11 +12,11 @@ Chase Lee
 
 UIC
 
-<center>The root User Group</center>
+<center>LUG WEB (/var/www)</center>
 
 **Abstract:**
 
-This document lays out the structure of LUG Web, an unofficial subgroup of LUG.
+This document lays out the structure of LUG Web (/var/www), an unofficial subgroup of LUG.  All further references to LUG Web will be referred to as "/var/www", except in ambiguous cases.
 
 **Copyright and License Notice:**
 
@@ -28,18 +28,32 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 2. [Governance](#Governance)
 
-3. [Definitions](#Definitions)
+3. [Meetings](#Meetings)
+
+4. [Projects](#Projects)
+
+4. [Definitions](#Definitions)
 
 TODO: what the group is, what it will do, and how it will be run.
 
 # Purpose
 
-The LUG Web subgroup exists to explore web technologies for developers.  Meetings will be held normally on a schedule posted on the Linux User's Group website.
+The /var/www subgroup exists to explore web technologies.  Meetings will be held normally on a schedule posted on the Linux User's Group website.  All LUG members in good standing are allowed to participate.
 
 
 # Governance
 
-LUG Web shall be administered in joint by the elected Traditional Officers of the LUG and the member(s) in good standing sponsor. They shall have the responsibility of organizing and leading meetings of the root group. Meetings may be called by any member.
+The /var/www subgroup shall be administered in joint by the elected Traditional Officers of the LUG and the sponsoring member(s) in good standing. They shall have the responsibility of organizing and leading meetings of the /var/www subgroup. Meetings may be called by the aforementioned administrative entities.
+
+
+# Meetings
+
+Meeting for the /var/www subgroups will be scheduled at the discretion of the administrative officials.  Topics and discussion will decided by the sponsoring lead member(s) based broadly on Web technologies.  Any person interested is allowed to attend, although it is strongly encouraged for attendees to be at least a LUG member.  While it should be encouraged to attend every /var/www meeting, there will be no repercussions toward any individual if they can no longer attend.
+
+
+# Projects
+
+Projects may be proposed to the sponsoring member(s) of /var/www to be worked on by participants of the meetings.  Projects will be accepted, denied, or deferred at the discretion of the sponsoring member(s).  Long-running projects should have proper planning and an article of specifications for the final product/vision.
 
 
 # Definitions
@@ -47,3 +61,5 @@ LUG Web shall be administered in joint by the elected Traditional Officers of th
 Web technologies are the applications used to create an information systems of the Internet, allowing the user to procure information.
 
 The Linux User's Group website is a webpage used to provide denizens of this world information correlating specifically to the Linux User's Group at the University of Illinois at Chicago.  The website is located at https://lug.cs.uic.edu/
+
+/var/www may refer to the LUG Web subgroup or the linux filesystem directory used to primarily store web applications and related assets on many systems.
