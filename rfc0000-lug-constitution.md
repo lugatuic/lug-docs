@@ -75,15 +75,15 @@ The objective of this organization is to promote the understanding of and partic
 
 ## <a name="Membership"></a> Membership
 
-### <a name="Elligibility"></a> Eligibility
+### <a name="Eligibility"></a> Eligibility
 
 Membership is open to any student, faculty, staff, or alumni of the University of Illinois at Chicago (UIC) and shall be free of discrimination based on gender, race, religion, physical disability, or sexual orientation.
 
 ### <a name="Standing"></a> Standing
 
-A member in the organization can it good or poor standing. By default members are in good standing upon joining the organization. A member in good standing has all the rights and privileges granted to that member by this document. To remain in good standning a member must:
+A member in the organization can it good or poor standing. By default members are in good standing upon joining the organization. A member in good standing has all the rights and privileges granted to that member by this document. To remain in good standing a member must:
 
-- Contirbute to meetings and activities
+- Contribute to meetings and activities
 - Uphold and complete all duties and responsibilities assigned them as members
 
 Penalties for members in poor standing shall be drafted and maintained by the [Executive Committee](#Executive-Committee).
@@ -102,7 +102,7 @@ Alumni tier membership is open to any former student, faculty, or staff of UIC.
 
 ### Dues
 
-The Executive Committee shall have the right to levy fair annual dues for membership. All university tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the descresion of the Executive Committee. Alumni members shall be exempt from any dues.
+The Executive Committee shall have the right to levy fair annual dues for membership. All university tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the discretion of the Executive Committee. Alumni members shall be exempt from any dues.
 
 ### Expulsion
 
@@ -116,7 +116,7 @@ In order for a member to be expelled a majority vote must be obtained from all u
 
 ## <a name="Executive-Committee"></a> Executive Committee
 
-The Executive Committee shall be the primary governing body of the LUG. It will conduct, on behalf of the LUG, all buisness it deems necessary and consist of three sets: Traditional Officers, Non-Traditional Officers, and The Vox.
+The Executive Committee shall be the primary governing body of the LUG. It will conduct, on behalf of the LUG, all business it deems necessary and consist of three sets: Traditional Officers, Non-Traditional Officers, and The Vox.
 
 ### <a name="Voting-and-Quorum"></a> Voting and Quorum
 
@@ -124,7 +124,7 @@ All voting matters shall be decided by a majority vote of a quorum of at least 2
 
 ### Offices and Officers
 
-Officer positions in the LUG may be created and destroyed at the will of the executive committee by a standard vote as described in the [Voting and Quorum](#Voting-and-Quorum) section with exception to the three UIC required postiions as described in the section [Traditional Officers](#Traditional-Officers). 
+Officer positions in the LUG may be created and destroyed at the will of the executive committee by a standard vote as described in the [Voting and Quorum](#Voting-and-Quorum) section with exception to the three UIC required positions as described in the section [Traditional Officers](#Traditional-Officers). 
 
 All officers shall have a term of one calender year starting on the day elected.
 
@@ -140,7 +140,7 @@ The president's duties are as follows:
 
 - Ensure that the organization upholds the principals laid down in this document and in any further governing document created by the executive committee.
 - To be an easy point of contact for people inside and outside the organization on matters related to the organization.
-- Monitor and track prgress of goals set for the LUG by the Executive Committee.
+- Monitor and track progress of goals set for the LUG by the Executive Committee.
 
 #### Vice-President
 
@@ -156,7 +156,7 @@ The Treasurer's duties are as follows:
 
 ### <a name="Non-Traditional-Officers"></a> Non-Traditional Officers
 
-Any university tier member or User Group may be appointed by the Executive Committee as a non-traditonal officer in order to oversee or administer some important process for the LUG. 
+Any university tier member or User Group may be appointed by the Executive Committee as a non-traditional officer in order to oversee or administer some important process for the LUG. 
 
 ### <a name="The-Vox"></a> The Vox
 
@@ -166,19 +166,19 @@ The Vox consists of all non-officer university tier members of the LUG. Each mem
 
 Any proposal brought to, or decision made by the Executive Committee should be drafted in the form a a document called a Request For Comments, or RFC for short, as a nod to the IETF RFC standards approval process.
 
-RFCs should be relitivly short well thought out descriptions of some policy, rule, or regulation proposed to the Executive Committee. This system exist to ensure there is a well documented history of Executive Committee decisions for reference on future actions.
+RFCs should be relatively short well thought out descriptions of some policy, rule, or regulation proposed to the Executive Committee. This system exist to ensure there is a well documented history of Executive Committee decisions for reference on future actions.
 
-All approved RFCs must be kept somewhere publically accessible to all members of the LUG.
+All approved RFCs must be kept somewhere publicly accessible to all members of the LUG.
 
-Any RFC which modifies, even temporarily, a policy that exists in another RFC must contain a reference to that RFC so that one can easily cross reference RFCs. The modified RFC must then be annotated with a reference to this change and the new RFC. Any RFC found by the Executive Committee to violate this rule is immediately invalidated until the RFC is corrected and revoted on.
+Any RFC which modifies, even temporarily, a policy that exists in another RFC must contain a reference to that RFC so that one can easily cross reference RFCs. The modified RFC must then be annotated with a reference to this change and the new RFC. Any RFC found by the Executive Committee to violate this rule is immediately invalidated until the RFC is corrected and re-voted on.
 
 The Executive Committee shall hold a standard vote to decide on all proposed RFCs.
 
-This document may be used as a stylistic guide for the fromat of RFCs. All RFCs should be given a unique identifying number incrementing from zero.
+This document may be used as a stylistic guide for the format of RFCs. All RFCs should be given a unique identifying number incrementing from zero.
 
 ## <a name="User-Groups"></a> User Groups
 
-User groups are sub-units of the LUG devoted to some buisness of interest to one or more members of the LUG. User groups can be created for any purpose whether it be a general discussion group, a group in charge of admistering some buisness of the LUG, or anything else the members desire. Groups exist to have a framework for members of the LUG to self-organize and participate in and enrich the LUG community.
+User groups are sub-units of the LUG devoted to some business of interest to one or more members of the LUG. User groups can be created for any purpose whether it be a general discussion group, a group in charge of administering some business of the LUG, or anything else the members desire. Groups exist to have a framework for members of the LUG to self-organize and participate in and enrich the LUG community.
 
 No member in good standing may be excluded from a group that that individual wishes to join.
 
@@ -188,7 +188,7 @@ There are two tiers of LUG user group: unofficial and official.
 
 Unofficial User Groups may be formed by any member(s) in good standing of the LUG at any time. Those wishing to create the group should gather together and write a document defining what the group is, what it will do, and how it will be run. This document should be iteratively improved over time with the eventual goal of it becoming the official proposal for this unofficial group to become an official group.
 
-Unofficial groups may be granted funds by the Executive Committee upon request but are not guarunteed an annual budget.
+Unofficial groups may be granted funds by the Executive Committee upon request but are not guaranteed an annual budget.
 
 ### Official Groups
 
