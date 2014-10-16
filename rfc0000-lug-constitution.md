@@ -94,7 +94,7 @@ There are three membership types organized into two tiers. These tiers are Unive
 
 #### University Tier
 
-Membership in both University type tiers is open to any current student, faculty, or staff of UIC.
+Membership in both University type tiers is open to any current student, faculty, or staff of UIC. There are two types of membership under the University tier. They are described below. For a member in good standing to switch between these two types they must submit a request to the Executive Committee at least 24 hours prior the next scheduled Executive Committee vote so that there is time to change any necessary records. If the request comes within 24 hours before the next Executive Committee vote then it will not take effect until after the vote.
 
 ##### University-Active
 
