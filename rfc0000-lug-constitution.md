@@ -90,19 +90,27 @@ Penalties for members in poor standing shall be drafted and maintained by the [E
 
 ### <a name="Tiers"></a> Tiers
 
-There are two membership tiers: university and alumni.
+There are three membership types organized into two tiers. These tiers are University and Alumni. The three membership types are University-Active and University-Passive under the University tier and Alumni under the Alumni tier.
 
-#### University
+#### University Tier
 
-University tier membership is open to any current student, faculty, or staff of UIC.
+Membership in both University type tiers is open to any current student, faculty, or staff of UIC. There are two types of membership under the University tier. They are described below. For a member in good standing to switch between these two types they must submit a request to the Traditional Officers at least 24 hours prior the next scheduled Executive Committee vote so that there is time to change any necessary records. If the request comes within 24 hours before the next Executive Committee vote then it will not take effect until after the vote.
 
-#### Alumni
+##### University-Active
 
-Alumni tier membership is open to any former student, faculty, or staff of UIC. 
+University-Active tier membership exists for those members who want the privileges and responsibilities of being an active voting member of the LUG.
+
+##### University-Passive
+
+University-Passive membership exists to allow individuals to enjoy full benefits of being a member of the LUG but do not want the responsibility of being a voting member involved in the administrating of the club.
+
+#### Alumni Tier
+
+Alumni membership is open to any former student, faculty, or staff of UIC. Who during their studies or employment at the University was a member of one of the University tier types of membership.
 
 ### Dues
 
-The Executive Committee shall have the right to levy fair annual dues for membership. All university tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the discretion of the Executive Committee. Alumni members shall be exempt from any dues.
+The Executive Committee shall have the right to levy fair annual dues for membership. All University tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the discretion of the Executive Committee. Alumni members shall be exempt from any dues.
 
 ### Expulsion
 
@@ -112,7 +120,7 @@ A member may be expelled from the LUG for any or all of the following reasons:
 - Physical or verbal abuse of members
 - Any gross misconduct as so deemed by the Executive Committee
 
-In order for a member to be expelled a majority vote must be obtained from all university tier members. This vote will be held over the course of seven days to give members ample time to consider their decision and vote. At the end of the voting period votes will be tallied and the necessary action will be taken.
+In order for a member to be expelled a majority vote must be obtained from the Executive Committee. This vote will be held over the course of seven days to give members ample time to consider their decision and vote. At the end of the voting period votes will be tallied and the necessary action will be taken.
 
 ## <a name="Executive-Committee"></a> Executive Committee
 
@@ -120,7 +128,7 @@ The Executive Committee shall be the primary governing body of the LUG. It will 
 
 ### <a name="Voting-and-Quorum"></a> Voting and Quorum
 
-All voting matters shall be decided by a majority vote of a quorum of at least 2/3 of the university tier members, one of whom must not be a traditional officer (so long as such a member exists), with the exception of any process which this document describes should be decided by some other process.
+All voting matters shall be decided by a majority vote of a quorum of at least 2/3 of the Executive Committee, one of the present members voting must not be a traditional officer (so long as such a member exists), with the exception of any process which this document describes should be decided by some other process.
 
 ### Offices and Officers
 
@@ -132,7 +140,7 @@ No officer, traditional or otherwise, has any more decision making power than an
 
 ### <a name="Traditional-Officers"></a> Traditional Officers
 
-There shall be three offices which must be filled each calendar year by university tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer. Each position may be filled by one person and one person only. This person must not have any other traditional officer position.
+There shall be three offices which must be filled each calendar year by University tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer. Each position may be filled by one person and one person only. This person must not have any other traditional officer position.
 
 #### President
 
@@ -156,15 +164,15 @@ The Treasurer's duties are as follows:
 
 ### <a name="Non-Traditional-Officers"></a> Non-Traditional Officers
 
-Any university tier member or User Group may be appointed by the Executive Committee as a non-traditional officer in order to oversee or administer some important process for the LUG. 
+Any University tier member or User Group may be appointed by the Executive Committee as a non-traditional officer in order to oversee or administer some important process for the LUG. 
 
 ### <a name="The-Vox"></a> The Vox
 
-The Vox consists of all non-officer university tier members of the LUG. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to participate to the fullest amount they can in the goings on of the LUG.
+The Vox consists of all University-Active members of the LUG who are in good standing and who are not officers in the LUG, traditional or otherwise, as their position already guarantees them a vote. Each member of the LUG has the same say in decision making as anyone else and to further that point this document explicitly creates The Vox as a part of the Executive Committee. This freedom and power also means members have a high responsibility to participate to the fullest amount they can in the goings on of the LUG.
 
 ## <a name="Laws"></a> Executive Committee Decisions
 
-Any proposal brought to, or decision made by the Executive Committee should be drafted in the form a a document called a Request For Comments, or RFC for short, as a nod to the IETF RFC standards approval process.
+Any proposal brought to, or decision made by the Executive Committee should be drafted in the form a document called a Request For Comments, or RFC for short, as a nod to the IETF RFC standards approval process.
 
 RFCs should be relatively short well thought out descriptions of some policy, rule, or regulation proposed to the Executive Committee. This system exist to ensure there is a well documented history of Executive Committee decisions for reference on future actions.
 
@@ -192,7 +200,7 @@ Unofficial groups may be granted funds by the Executive Committee upon request b
 
 ### Official Groups
 
-Official User Groups are official sub-groups of the LUG. Any university tier member in good standing may submit a proposal to the Executive Committee to create an Official User Group. This proposal should come in the form of an official RFC and describe what the group is, what it will do, and how it will be run. If this group was formerly an Unofficial User Group this document should already be existent.
+Official User Groups are official sub-groups of the LUG. Any University tier member in good standing may submit a proposal to the Executive Committee to create an Official User Group. This proposal should come in the form of an official RFC and describe what the group is, what it will do, and how it will be run. If this group was formerly an Unofficial User Group this document should already be existent.
 
 Official User Groups are to be allotted an annual budget by the Executive Committee.
 
@@ -211,4 +219,4 @@ The LUG shall enlist the assistance of an adviser on all projects. The LUG advis
 
 ## <a name="Amendments-and-Revisions"></a> Amendments and Revisions
 
-This document may be altered by a vote of the Executive Committee. To pass any alteration a 2/3 majority vote must be taken of 3/4 of the total university tier members of the LUG who are in good standing.
+This document may be altered by a vote of the Executive Committee. To pass any alteration a 2/3 majority vote must be taken of 3/4 of the Executive Committee.
