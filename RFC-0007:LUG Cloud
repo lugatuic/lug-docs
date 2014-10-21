@@ -1,0 +1,56 @@
+**Linux User's Group at University of Illinois Chicago**
+
+**Request for Comment:** #0007
+
+&nbsp;&nbsp;&nbsp;&nbsp;Relevant RFCs: #0000, #0001
+
+**Category:** User Group
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Jeffrey Gensler
+
+UIC
+
+<center>"LUG Cloud" (/etc/init.d/cloud)</center>
+
+**Abstract:**
+
+This document lays out the structure of LUG Cloud (/etc/init.d/cloud), an unofficial subgroup of LUG.  All further references to LUG Web will be referred to as "/var/www", except in ambiguous cases.
+
+**Copyright and License Notice:**
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+**Table of Contents:**
+
+1. [Purpose](#Purpose)
+
+2. [Governance](#Governance)
+
+3. [Meetings](#Meetings)
+
+4. [Projects](#Projects)
+
+5. [Definitions](#Definitions)
+
+# Purpose
+
+The /etc/init.d/cloud will provide a PaaS solution for LUG and potentially ACM members. This can help attract more members as well as give our current members a platform to deploy applications on.
+
+# Governance
+
+The /etc/init.d subgroup shall be administered LUG active members.
+
+# Meetings
+
+Meetings will be held at least bi-weekly, typically on Tuesdays.
+
+
+# Projects
+
+Create a cloud of virtual machines and/or containers for LUG and possibly ACM members. The software chosen can vary from year to year as appropriate and relevant software is found. Documentation will be kept on LUG's wiki.
+
+# Definitions
+
+PaaS: Platform as a Service
