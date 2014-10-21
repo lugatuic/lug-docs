@@ -71,7 +71,7 @@ This organization shall be know as the Linux User's Group or "LUG" for short. Th
 
 ### <a name="Objective"></a> Objective
 
-The objective of this organization is to promote the understanding of and participation in the open source software community.
+The objective of this organization is to promote the understanding of and participation in the open source community.
 
 ## <a name="Membership"></a> Membership
 
