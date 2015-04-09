@@ -36,17 +36,17 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
     
     3.3. Tiers
 
-	    3.3.1. University Tier
+        3.3.1. University Tier
 
-		    3.3.1.1. University-Active
+            3.3.1.1. University-Active
 
-			3.3.1.2. University-Passive
+            3.3.1.2. University-Passive
 
-		3.3.2. Alumni Tier
+        3.3.2. Alumni Tier
 
-	3.4 Dues
+    3.4 Dues
 
-	3.5 Expulsion
+    3.5 Expulsion
  
 4. Executive Committee
 
@@ -56,15 +56,15 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
     
     4.3. The Vox
 
-	    4.3.1. President
+        4.3.1. President
 
-		4.3.2. Vice-President
+        4.3.2. Vice-President
 
-		4.3.3. Treasurer
+        4.3.3. Treasurer
 
-	4.4. Non-Traditional Officers
+    4.4. Non-Traditional Officers
 
-	4.5. The Vox
+    4.5. The Vox
 
 5. Executive Council Decisions
 
@@ -72,7 +72,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
     6.1. Unofficial Groups
 
-	6.2. Official Groups
+    6.2. Official Groups
  
 7. Meetings
 
