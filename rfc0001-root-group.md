@@ -12,7 +12,7 @@ Anthony Phelps
 
 UIC
 
-<center>The root User Group</center>
+# The root User Group
 
 **Abstract:**
 
@@ -24,12 +24,16 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 **Table of Contents:**
 
-# Purpose
+1. Purpose
+
+2. Governance
+
+## 1 Purpose
 
 The root User Group exists to create a basic user group for the purpose of organizing the members and activities of the LUG. The root group should serve as a means for the LUG to meet and plan future LUG business.
 
 All LUG members are automatically made members of the root group.
 
-# Governance
+## 2 Governance
 
 The root group shall be administered in joint by the elected Traditional Officers of the LUG. They shall have the responsibility of organizing and leading meetings of the root group. Meetings may be called by any member.
