@@ -12,7 +12,7 @@ Anthony Phelps
 
 UIC
 
-The root User Group
+The /usr/share/dict User Group
 
 **Abstract:**
 
