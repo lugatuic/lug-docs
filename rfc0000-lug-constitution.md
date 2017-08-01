@@ -45,8 +45,10 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
         3.3.2. Alumni Tier
 
     3.4 Dues
+    
+    3.5 Handling of Funds
 
-    3.5 Expulsion
+    3.6 Expulsion
  
 4. Executive Committee
 
@@ -82,7 +84,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 
 ## 1 Organization Name
 
-This organization shall be know as the Linux User's Group or "LUG" for short. Throughout this document the organization will be referred to by its acronym, LUG.
+This organization shall be known as the Linux User's Group or "LUG" for short. Throughout this document the organization will be referred to by its acronym, LUG.
 
 ## 2 Objective
 
@@ -92,7 +94,7 @@ The objective of this organization is to promote the understanding of and partic
 
 ### 3.1 Eligibility
 
-Membership is open to any student, faculty, staff, or alumni of the University of Illinois at Chicago (UIC) and shall be free of discrimination based on gender, race, religion, physical disability, sexual orientation, or national origin.
+Membership is open to any student, faculty, staff, or alumni of the University of Illinois at Chicago (UIC) and shall be free of discrimination based on gender, race, religion, physical disability, sexual orientation, or national origin in accordance to the Board  of Trustee's policies regarding nondiscrimination.  
 
 ### 3.2 Standing
 
@@ -141,7 +143,15 @@ All University tier members must pay these dues or risk falling into poor standi
 
 Alumni members shall be exempt from any dues.
 
-### 3.5 Expulsion
+### 3.5 Handling of Funds
+
+The organization's on-campus COF account will be managed primarily by the Treasurer.
+
+The registration form allows the President, Vice President, and Treasurer to authorize or sign documents concering funds.
+
+All monies collected on campus shall be desposited in the organization's COF account. 
+
+### 3.6 Expulsion
 
 A member may be expelled from the LUG for any or all of the following reasons:
 
