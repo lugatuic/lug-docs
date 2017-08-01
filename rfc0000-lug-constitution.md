@@ -52,11 +52,11 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
  
 4. Executive Committee
 
-    4.1. Traditional Officers
+    4.1. Voting and Quorum
     
-    4.2. Non-Traditional Officers
+    4.2. Offices and Officers
     
-    4.3. The Vox
+    4.3. Traditional Officers
 
         4.3.1. President
 
