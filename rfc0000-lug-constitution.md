@@ -94,7 +94,7 @@ The objective of this organization is to promote the understanding of and partic
 
 ### 3.1 Eligibility
 
-Membership is open to any student, faculty, staff, or alumni of the University of Illinois at Chicago (UIC) and shall be free of discrimination based on gender, race, religion, physical disability, sexual orientation, or national origin in accordance to the Board  of Trustee's policies regarding nondiscrimination.  
+It is the policy of the University of Illinois at Chicago  to not engage in discrimination or harassment against any person because of race, color, religion, sex, national origin, ancestry, age, order of protection status, genetic information, marital status, disability, sexual orientation including gender identity, unfavorable discharge from the military or status as a protected veteran and will comply with all federal and state nondiscrimination, equal opportunity and affirmative action laws, orders and regulations.
 
 ### 3.2 Standing
 
