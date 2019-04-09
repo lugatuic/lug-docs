@@ -175,7 +175,7 @@ No officer, traditional or otherwise, has any more decision making power than an
 
 ### 4.3 Traditional Officers
 
-There shall be three offices which must be filled each calendar year by University tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, and Treasurer. Each position may be filled by one person and one person only. This person must not have any other Traditional Officer position.
+There shall be three offices which must be filled each calendar year by University tier members of the LUG. These positions are required by the university and so therefore must be filled. These positions are President, Vice-President, Treasurer, and Secretary. Each position may be filled by one person and one person only. This person must not have any other Traditional Officer position.
 
 #### 4.3.1 President
 
@@ -196,6 +196,21 @@ The Treasurer's duties are as follows:
 - Ensure the creation of a budget by the Executive Committee, shortly after elections, for the next year.
 - Monitor the budget of the organization and assure it is spent appropriately.
 - Keep track of all money coming into and leaving the organization
+
+#### 4.3.4 Secretary  
+
+The Secretary's duties are as follows:
+
+- Prepare formal communications with CS Department
+- Check status of research, project, and interest groups
+
+#### 4.3.5 Alumni Advisor 
+
+- Must be an Alumni Status Member
+-Be available as a resource to the other Traditional officers
+- Support endevours of Traditional officers
+- Has the power of Tie Breaker vote should Traditional officers vote turn out to be a tie
+- Should impeachment of an officer be requested my member, the Alumni Officer shall oversee proceedings
 
 ### 4.4 Non-Traditional Officers
 
