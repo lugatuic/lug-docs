@@ -145,11 +145,7 @@ Alumni members shall be exempt from any dues.
 
 ### 3.5 Handling of Funds
 
-The organization's on-campus COF account will be managed primarily by the Treasurer.
-
-The registration form allows the President, Vice President, and Treasurer to authorize or sign documents concering funds.
-
-All monies collected on campus shall be desposited in the organization's COF account. 
+The President and Treasurer are financially responsible. These officers will be the only members allowed to access the COF account. The advisor may not be the third officer. All funds raised on campus MUST be deposited into the organization’s on-campus Chicago Organization Fund account.
 
 ### 3.6 Expulsion
 
