@@ -31,9 +31,9 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
 3. Membership
 
     3.1. Eligibility
-    
+
     3.2. Standing
-    
+
     3.3. Tiers
 
         3.3.1. University Tier
@@ -45,17 +45,17 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
         3.3.2. Alumni Tier
 
     3.4 Dues
-    
+
     3.5 Handling of Funds
 
     3.6 Expulsion
- 
+
 4. Executive Committee
 
     4.1. Voting and Quorum
-    
+
     4.2. Offices and Officers
-    
+
     4.3. Traditional Officers
 
         4.3.1. President
@@ -63,6 +63,10 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
         4.3.2. Vice-President
 
         4.3.3. Treasurer
+
+        4.3.4 Secretary
+
+        4.3.5 Alumni Advisor
 
     4.4. Non-Traditional Officers
 
@@ -75,7 +79,7 @@ This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 Inte
     6.1. Unofficial Groups
 
     6.2. Official Groups
- 
+
 7. Meetings
 
 8. Advisor
@@ -98,7 +102,7 @@ It is the policy of the University of Illinois at Chicago  to not engage in disc
 
 ### 3.2 Standing
 
-A member in the organization can be in good or poor standing. By default members are in good standing upon joining the organization. 
+A member in the organization can be in good or poor standing. By default members are in good standing upon joining the organization.
 
 A member in good standing has all the rights and privileges granted to that member by this document. To remain in good standing a member must:
 
@@ -115,7 +119,7 @@ There are three membership types organized into two tiers. These tiers are Unive
 
 #### 3.3.1 University Tier
 
-Membership in both University type tiers is open to any current student, faculty, or staff of UIC. 
+Membership in both University type tiers is open to any current student, faculty, or staff of UIC.
 
 There are two types of membership under the University tier: University-Active and University-Passive.
 
@@ -137,9 +141,9 @@ Any university tier member in good standing who leaves the University is automat
 
 ### 3.4 Dues
 
-The Executive Committee shall have the right to levy fair annual dues for membership. 
+The Executive Committee shall have the right to levy fair annual dues for membership.
 
-All University tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the discretion of the Executive Committee. 
+All University tier members must pay these dues or risk falling into poor standing or potential expulsion from the organization at the discretion of the Executive Committee.
 
 Alumni members shall be exempt from any dues.
 
@@ -167,7 +171,7 @@ All voting matters shall be decided by a majority vote of a quorum of at least 2
 
 ### 4.2 Offices and Officers
 
-Officer positions in the LUG may be created and destroyed at the will of the Executive Committee by a standard vote as described in the *Voting and Quorum* section with exception to the three UIC required positions as described in the section *Traditional Officers*. 
+Officer positions in the LUG may be created and destroyed at the will of the Executive Committee by a standard vote as described in the *Voting and Quorum* section with exception to the three UIC required positions as described in the section *Traditional Officers*.
 
 All officers shall have a term of one calender year starting on the day elected.
 
@@ -201,20 +205,23 @@ The Treasurer's duties are as follows:
 
 The Secretary's duties are as follows:
 
-- Prepare formal communications with CS Department
+- Prepare formal communications with CS Department including reservations for events
 - Check status of research, project, and interest groups
+- Support President with event creation and administration of events
+- Design and print fliers for upcoming events
+- Create sponsorship proposals and reach out to companies about potential partnerships
 
-#### 4.3.5 Alumni Advisor 
+#### 4.3.5 Alumni Advisor
 
 - Must be an Alumni Status Member
--Be available as a resource to the other Traditional officers
-- Support endevours of Traditional officers
+- Be available as a resource to the other Traditional officers
+- Support endeavors of Traditional officers
 - Has the power of Tie Breaker vote should Traditional officers vote turn out to be a tie
 - Should impeachment of an officer be requested my member, the Alumni Officer shall oversee proceedings
 
 ### 4.4 Non-Traditional Officers
 
-Any University tier member or User Group may be appointed by the Executive Committee as a non-traditional officer in order to oversee or administer some important process for the LUG. 
+Any University tier member or User Group may be appointed by the Executive Committee as a non-traditional officer in order to oversee or administer some important process for the LUG.
 
 ### 4.5 The Vox
 
