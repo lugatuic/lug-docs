@@ -8,9 +8,6 @@ Relevant RFCs: #0000
 
 ---------------------------------------------------------------------------------
 
-Anthony Phelps
-
-UIC
 
 # Basic Rules for the Governance of the Linux User's Group at the University of Illinois at Chicago
 
