@@ -1,4 +1,5 @@
 \documentclass[letter]{report}
+\usepackage{atbegshi}
 \usepackage{charter}
 \usepackage{hyperref}
 \usepackage[parfill]{parskip}
@@ -10,13 +11,18 @@
 
 \begin{document}
 
+% approval notice
+\AtBeginShipout{\AtBeginShipoutUpperLeft{
+	\put(\dimexpr\paperwidth-1cm\relax,-1.5cm){\makebox[0pt][r]{\bf{\framebox{DOCUMENT
+	REVIEWED AND APPROVED FOR 2024-2025}}}}
+}}
+
 \title{Basic Rules for the Governance of the Linux User Group at the University
 of Illinois at Chicago}
 \author{Linux User Group\\
 	University of Illinois at Chicago\\
 	Chicago, IL\\
-	United States\\
-	\url{lug.cs.uic.edu}}
+	United States}
 \date{\today}
 \maketitle
 
@@ -47,13 +53,13 @@ and related technologies.
 
 \chapter{MEMBERSHIP}
 \section{Eligibility}
-It is the policy of the University of Illinois at Chicago to not engage in
-discrimination or harassment against any person because of race, color,
-religion, sex, national origin, ancestry, age, order of protection status,
-genetic information, marital status, disability, sexual orientation including
-gender identity, unfavorable discharge from the military or status as a
-protected veteran and will comply with all federal and state nondiscrimination,
-equal opportunity and affirmative action laws, orders and regulations.
+It is the policy of the University not to engage in discrimination or harassment
+against any person because of race, color, religion, sex, pregnancy, disability,
+national origin, citizenship status, ancestry, age, order of protection status,
+genetic information, marital status, sexual orientation, gender identity, arrest
+record status,  unfavorable discharge from the military, or status as a
+protected veteran and to comply with all federal and state nondiscrimination,
+equal opportunity, and affirmative action laws, orders, and regulations.
 
 \section{Standing}
 A member in the organization can be in good or poor standing. By default members
